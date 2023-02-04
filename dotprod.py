@@ -9,7 +9,7 @@ while True:
     print("Eirik Valderhaug")
 
     #Enter values for vector a
-    a1 = int(input("\nEnter value a1: "))
+    a1 = int(input("\nEnter value alla1: "))
     a2 = int(input("Enter value a2: "))
     a3 = int(input("Enter value a3: "))
 
